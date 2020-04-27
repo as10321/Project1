@@ -7,14 +7,15 @@
 	<link href="css/project1.css" rel="stylesheet">
 	<script src="/js/progress.js"></script>
 </head>
-<div id="progress">
-<div id ="bar"></div>
-</div><!--end progress-->
 <div id="wrapper">
 <header>
 	<h1>Character Creation Tool</h1>
 </header>
 <body>
+	<div id="progress">
+	<div id ="bar"></div>
+	</div><!--end progress-->
 	<button type="button" onclick="progress()">Try it</button>
+</body>
 </div><!--end wrapper-->
 </html>
