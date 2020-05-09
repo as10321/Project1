@@ -1,3 +1,6 @@
+* {
+	background-color: purple;
+}
 #wrapper {
 	background-image: url(../images/diceBackground.jpg);
 	background-repeat: no-repeat;
